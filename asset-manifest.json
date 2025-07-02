@@ -1,15 +1,15 @@
 {
-  "main.css": "/Sorting-Visualizer-Application/static/css/main.79e9164c.chunk.css",
-  "main.js": "/Sorting-Visualizer-Application/static/js/main.d7ddda30.chunk.js",
-  "main.js.map": "/Sorting-Visualizer-Application/static/js/main.d7ddda30.chunk.js.map",
-  "runtime~main.js": "/Sorting-Visualizer-Application/static/js/runtime~main.b4009b3a.js",
-  "runtime~main.js.map": "/Sorting-Visualizer-Application/static/js/runtime~main.b4009b3a.js.map",
-  "static/js/2.a7504e4a.chunk.js": "/Sorting-Visualizer-Application/static/js/2.a7504e4a.chunk.js",
-  "static/js/2.a7504e4a.chunk.js.map": "/Sorting-Visualizer-Application/static/js/2.a7504e4a.chunk.js.map",
-  "static/js/3.e513e70d.chunk.js": "/Sorting-Visualizer-Application/static/js/3.e513e70d.chunk.js",
-  "static/js/3.e513e70d.chunk.js.map": "/Sorting-Visualizer-Application/static/js/3.e513e70d.chunk.js.map",
+  "main.css": "/Sorting-Visualizer-Application/static/css/main.66501202.chunk.css",
+  "main.js": "/Sorting-Visualizer-Application/static/js/main.115c1a81.chunk.js",
+  "main.js.map": "/Sorting-Visualizer-Application/static/js/main.115c1a81.chunk.js.map",
+  "static/js/1.41211fcf.chunk.js": "/Sorting-Visualizer-Application/static/js/1.41211fcf.chunk.js",
+  "static/js/1.41211fcf.chunk.js.map": "/Sorting-Visualizer-Application/static/js/1.41211fcf.chunk.js.map",
+  "static/js/2.ced1aaae.chunk.js": "/Sorting-Visualizer-Application/static/js/2.ced1aaae.chunk.js",
+  "static/js/2.ced1aaae.chunk.js.map": "/Sorting-Visualizer-Application/static/js/2.ced1aaae.chunk.js.map",
+  "runtime~main.js": "/Sorting-Visualizer-Application/static/js/runtime~main.51a5faf6.js",
+  "runtime~main.js.map": "/Sorting-Visualizer-Application/static/js/runtime~main.51a5faf6.js.map",
+  "static/css/main.66501202.chunk.css.map": "/Sorting-Visualizer-Application/static/css/main.66501202.chunk.css.map",
   "index.html": "/Sorting-Visualizer-Application/index.html",
-  "precache-manifest.e8f0aee6195449743961612593d4085c.js": "/Sorting-Visualizer-Application/precache-manifest.e8f0aee6195449743961612593d4085c.js",
-  "service-worker.js": "/Sorting-Visualizer-Application/service-worker.js",
-  "static/css/main.79e9164c.chunk.css.map": "/Sorting-Visualizer-Application/static/css/main.79e9164c.chunk.css.map"
+  "precache-manifest.c609618ffdfcd4b99b17d41e5033b49b.js": "/Sorting-Visualizer-Application/precache-manifest.c609618ffdfcd4b99b17d41e5033b49b.js",
+  "service-worker.js": "/Sorting-Visualizer-Application/service-worker.js"
 }
